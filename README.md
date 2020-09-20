@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Java Programming**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jaypatel31](https://github.com/jaypatel31)
+- 💻 All of my projects are available at [https://github.com/jaypatel31](https://github.com/jaypatel31)
+
+- 👨‍ My portfolio Website [Patel Jay](http://pateljay.me/)
 
 - 💬 Ask me about **Anything**
 
