@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Personal-Portfolio](https://github.com/jaypatel31/Form-Builder)
 
-- 🌱 I’m currently learning **Java Programming**
+- 🌱 I’m currently learning **Dhrupal CMS**
 
 - 💻 All of my projects are available at [https://github.com/jaypatel31](https://github.com/jaypatel31)
 
