@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jay</h1>
 <h3 align="center">A passionate website developer from India</h3>
 
-- 🔭 I’m currently working on [Personal-Portfolio](https://github.com/jaypatel31/Form-Builder)
+- 🔭 I’m currently working on [SNC-Webiste](https://github.com/Web-Team-Encode/rangtaal)
 
-- 🌱 I’m currently learning **Dhrupal CMS**
+- 🌱 I’m currently learning **Dhrupal CMS, Python**
 
 - 💻 All of my projects are available at [https://github.com/jaypatel31](https://github.com/jaypatel31)
 
