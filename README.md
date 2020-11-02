@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **https://www.instagram.com/jaypatel98196/**
+
 ### 🚀 Skills 
 ![c](https://img.shields.io/badge/c%20🟢🟢🟢⚪⚪-%233776AB.svg?&style=flat-square&logo=c&logoColor=white)  
 ![css3](https://img.shields.io/badge/css3%20🟢🟢🟢🟢⚪-%23F7DF1E.svg?&style=flat-square&logo=css3&logoColor=white&labelColor=black)  
@@ -45,7 +46,8 @@ Here are some ideas to get you started:
 <br/>
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-original.svg" alt="php" width="40" height="40"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypatel31&layout=compact&hide=html&theme=cobalt" alt="jaypatel31" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaypatel31&label=Profile%20views&color=blue&style=flat" alt="jaypatel31" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaypatel31&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="jaypatel31" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaypatel31&show_icons=true&theme=cobalt" alt="jaypatel31" /></p>
 
