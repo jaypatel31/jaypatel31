@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **https://www.instagram.com/jaypatel98196/**
+- 📫 Checkout my Resume [Jay Patel](https://drive.google.com/file/d/1a6xir38FnkAkNeWYQTPoMwysvZiPQIVn/view?usp=sharing)
 
 ### 🚀 Skills 
 ![c](https://img.shields.io/badge/c%20🟢🟢🟢⚪⚪-%233776AB.svg?&style=flat-square&logo=c&logoColor=white)  
