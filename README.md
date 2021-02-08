@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Python-Examples](https://github.com/jaypatel31/Python-Example)
 
-- 🌱 I’m currently learning **PHP CMS (Drupal), Python**
+- 🌱 I’m currently learning **PHP CMS (Drupal), ReactJs**
 
 - 💻 All of my projects are available at [https://github.com/jaypatel31](https://github.com/jaypatel31)
 
