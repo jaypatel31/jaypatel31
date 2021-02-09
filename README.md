@@ -34,14 +34,15 @@ Here are some ideas to get you started:
 - 📫 Checkout my Resume [Jay Patel](https://drive.google.com/file/d/1Mp_1Gz-d_40NiGF2NzlGKJifACTafg7x/view?usp=sharing)
 
 ### 🚀 Skills 
-![c](https://img.shields.io/badge/c%20🟢🟢🟢⚪⚪-%233776AB.svg?&style=flat-square&logo=c&logoColor=white)  
-![css3](https://img.shields.io/badge/css3%20🟢🟢🟢🟢⚪-%23F7DF1E.svg?&style=flat-square&logo=css3&logoColor=white&labelColor=black)  
-![html5](https://img.shields.io/badge/html5%20🟢🟢🟢🟢⚪-%23239120.svg?&style=flat-square&logo=html5&logoColor=white)  
-![java](https://img.shields.io/badge/java%20🟢🟢🟢⚪⚪-%233776AB.svg?&style=flat-square&logo=java&logoColor=white) <!-- TODO: upload icon -->  
-![javascript](https://img.shields.io/badge/javascript%20🟢🟢🟢🟢⚪-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black)  
-![mysql](https://img.shields.io/badge/mysql%20🟢🟢🟢🟢⚪-%23239120.svg?&style=flat-square&logo=mysql&logoColor=white) <br/>
-![php](https://img.shields.io/badge/php%20🟢🟢🟢🟢⚪-%233776AB.svg?&style=flat-square&logo=php&logoColor=white)<br>
-![jquery](https://img.shields.io/badge/jquery%20🟢🟢🟢⚪⚪-%23F7DF1E.svg?&style=flat-square&logo=jquery&logoColor=black) 
+![c](https://img.shields.io/badge/c%20🟢🟢🟢⚪⚪-%233776AB.svg?&style=for-the-badge&logo=c&logoColor=white)  
+![css3](https://img.shields.io/badge/css3%20🟢🟢🟢🟢⚪-%23F7DF1E.svg?&style=for-the-badge&logo=css3&logoColor=white&labelColor=black)  
+![html5](https://img.shields.io/badge/html5%20🟢🟢🟢🟢⚪-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white)  
+![java](https://img.shields.io/badge/java%20🟢🟢🟢⚪⚪-%233776AB.svg?&style=for-the-badge&logo=java&logoColor=white) <!-- TODO: upload icon -->  
+![javascript](https://img.shields.io/badge/javascript%20🟢🟢🟢🟢⚪-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)  
+![mysql](https://img.shields.io/badge/mysql%20🟢🟢🟢🟢⚪-%23239120.svg?&style=for-the-badge&logo=mysql&logoColor=white) <br/>
+![php](https://img.shields.io/badge/php%20🟢🟢🟢🟢⚪-%233776AB.svg?&style=for-the-badge&logo=php&logoColor=white)<br>
+![jquery](https://img.shields.io/badge/jquery%20🟢🟢🟢⚪⚪-%23F7DF1E.svg?&style=for-the-badge&logo=jquery&logoColor=black)<br/>
+![python](https://img.shields.io/badge/python%20🟢🟢🟢⚪⚪-%23239120.svg?&style=for-the-badge&logo=python&logoColor=white) 
 
 <br/>
 
