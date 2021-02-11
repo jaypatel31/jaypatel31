@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaypatel31&show_icons=true&theme=blue-green)](https://github.com/jaypatel31/github-readme-stats)
 -->
-<h1 align="center">Hi <img src="https://github.com/Kishan-Dhankecha/Kishan-Dhankecha/blob/master/images/wave.gif" width="35">, I'm Jay</h1>
-<h3 align="center">A passionate website developer from India</h3>
 
-- 🔭 I’m currently working on [Python-Examples](https://github.com/jaypatel31/Python-Example)
+<img src="header_Image.gif" alt="Computer man" style="width:48px;height:48px;"> 
+
+- 🔭 I’m currently working on [React-Examples](https://github.com/jaypatel31/React_Examples)
 
 - 🌱 I’m currently learning **PHP CMS (Drupal), ReactJs**
 
