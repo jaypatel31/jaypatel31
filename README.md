@@ -42,7 +42,8 @@ Here are some ideas to get you started:
 ![mysql](https://img.shields.io/badge/mysql%20🟢🟢🟢🟢⚪-%23239120.svg?&style=for-the-badge&logo=mysql&logoColor=white) <br/>
 ![php](https://img.shields.io/badge/php%20🟢🟢🟢🟢⚪-%233776AB.svg?&style=for-the-badge&logo=php&logoColor=white)<br>
 ![jquery](https://img.shields.io/badge/jquery%20🟢🟢🟢⚪⚪-%23F7DF1E.svg?&style=for-the-badge&logo=jquery&logoColor=black)<br/>
-![python](https://img.shields.io/badge/python%20🟢🟢🟢⚪⚪-%23239120.svg?&style=for-the-badge&logo=python&logoColor=white) 
+![python](https://img.shields.io/badge/python%20🟢🟢🟢⚪⚪-%23239120.svg?&style=for-the-badge&logo=python&logoColor=white)<br/>
+![React](https://img.shields.io/badge/react%20🟢🟢⚪⚪⚪-%23239120.svg?&style=for-the-badge&logo=react&logoColor=white) 
 
 <br/>
 
