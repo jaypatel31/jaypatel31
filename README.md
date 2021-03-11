@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [React-Examples](https://github.com/jaypatel31/React_Examples)
 
-- 🌱 I’m currently learning **PHP CMS (Drupal), ReactJs, Microsoft azure**
+- 🌱 I’m currently learning **SEO**
 
 - 💻 All of my projects are available at [https://github.com/jaypatel31](https://github.com/jaypatel31)
 
