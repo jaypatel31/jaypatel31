@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [React-Examples](https://github.com/jaypatel31/React_Examples)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js, Three.js**
 
 - 💻 All of my projects are available at [https://github.com/jaypatel31](https://github.com/jaypatel31)
 
@@ -61,4 +61,5 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/jaypatel98196/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/jaypatel98196/" height="30" width="30" /></a>
   <a href="https://linkedin.com/in/jay-patel-b0b30b197/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jay-patel-b0b30b197/" height="30" width="30" /></a>
 </p>
+
 
