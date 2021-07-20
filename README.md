@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ![jquery](https://img.shields.io/badge/jquery%20🟢🟢🟢⚪⚪-%23F7DF1E.svg?&style=for-the-badge&logo=jquery&logoColor=black)<br/>
 ![python](https://img.shields.io/badge/python%20🟢🟢🟢⚪⚪-%23239120.svg?&style=for-the-badge&logo=python&logoColor=white)<br/>
 ![React](https://img.shields.io/badge/react%20🟢🟢🟢🟢⚪-%233776AB.svg?&style=for-the-badge&logo=react&logoColor=white)<br/>
-![Git](https://img.shields.io/badge/git%20🟢🟢🟢🟢⚪-%23F7DF1E.svg?&style=for-the-badge&logo=git&logoColor=white) 
+![Git](https://img.shields.io/badge/git%20🟢🟢🟢🟢⚪-%23F7DF1E.svg?&style=for-the-badge&logo=git&logoColor=white)   
 
 <br/>
 
