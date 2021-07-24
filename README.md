@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 - 📫 Checkout my Resume [Jay Patel](https://drive.google.com/file/d/1Mp_1Gz-d_40NiGF2NzlGKJifACTafg7x/view?usp=sharing)
 
 ### 🚀 Skills 
+
 ![c](https://img.shields.io/badge/c%20🟢🟢🟢⚪⚪-%233776AB.svg?&style=for-the-badge&logo=c&logoColor=white)  
 ![css3](https://img.shields.io/badge/css3%20🟢🟢🟢🟢⚪-%23F7DF1E.svg?&style=for-the-badge&logo=css3&logoColor=white&labelColor=black)  
 ![html5](https://img.shields.io/badge/html5%20🟢🟢🟢🟢⚪-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white)  
