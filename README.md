@@ -33,7 +33,7 @@
         <p>🌈 &nbsp;Beta Student Ambassador At <a href="https://studentambassadors.microsoft.com/">Microsoft Learn Student Ambassador</a> &nbsp;&nbsp;<i>(Jan 2021 - Present)</i></p>
         <p>👨‍💻 &nbsp;Web Head At <a href="https://encodepdeu.org">Encode - The Computer Science Club</a> &nbsp;&nbsp;<i>(Oct 2020 - Present)</i></p>
         <p>🎫 &nbsp;Technical Member At <a href="https://csi-india.org.in">Computer Society of India</a> &nbsp;&nbsp;<i>(Nov 2020 - Present)</i></p>
-        <p>🌐 &nbsp;Web Developement Member At <a href="https://dsc.community.dev/pandit-deendayal-petroleum-university">Developer Student Club</a> &nbsp;&nbsp;<i>(Nov 2021 - Present)</i></p>
+        <p>🌐 &nbsp;Web Developement Member At <a href="https://dsc.community.dev/pandit-deendayal-petroleum-university">Developer Student Club</a> &nbsp;&nbsp;<i>(Nov 2020 - Present)</i></p>
     </p>
   </p>
 </details>
