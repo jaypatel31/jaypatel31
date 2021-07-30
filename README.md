@@ -58,16 +58,11 @@
 <details> 
   <summary><b>👉 Frontend Development</b></summary>
   <br/>
-  <p align="left"> 
-    &emsp; 
+  <p align="left">
       <img alt="C" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    &emsp;
       <img alt="C" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    &emsp;
       <img alt="C" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    &emsp;
       <img alt="C" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-    &emsp;
       <img alt="C" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     
   </p>
@@ -77,11 +72,8 @@
   <summary><b>👉 Programming languages</b></summary>
   <br/>
   <p align="left"> 
-    &emsp; 
       <img alt="C" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
-    &emsp;
       <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    &emsp;
       <img alt="C" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   </p>
 </details>
@@ -90,25 +82,15 @@
   <summary><b>👉 Frameworks</b></summary>
   <br/>
   <p align="left"> 
-    &emsp; 
       <img alt="C" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    &emsp;
       <img alt="C" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-    &emsp;
       <img alt="C" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
-    &emsp;
       <img alt="C" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-    &emsp;
-      <img alt="C" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><br/>
-    &emsp;
+      <img alt="C" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
       <img alt="C" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
-    &emsp;
       <img alt="C" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-    &emsp;
       <img alt="C" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-    &emsp;
       <img alt="C" src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white">
-    &emsp;
       <img alt="C" src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white">
   </p>
 </details>
@@ -117,13 +99,9 @@
   <summary><b>👉 Databases & Cloud Hosting</b></summary>
   <br/>
   <p align="left"> 
-    &emsp;
       <img alt="C" src="https://img.shields.io/badge/MySQL-FF5E11?style=for-the-badge&logo=mysql&logoColor=white">
-    &emsp;
       <img alt="C" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-    &emsp;
       <img alt="C" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-    &emsp;
       <img alt="C" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </p>
 </details>
@@ -132,13 +110,9 @@
   <summary><b>👉 Tools</b></summary>
   <br/>
   <p align="left"> 
-    &emsp;
       <img alt="C" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-    &emsp;
       <img alt="C" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-    &emsp;
       <img alt="C" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-    &emsp;
       <img alt="C" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   </p>
 </details>
@@ -150,8 +124,8 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=jaypatel31&show_icons=true&locale=en&theme=vue-dark" alt="jaypatel31" height="192px"/>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaypatel31&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="jaypatel31" height="192px"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=jaypatel31&show_icons=true&locale=en&theme=vue-dark" alt="jaypatel31" height="180em"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaypatel31&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="jaypatel31" height="180em"/>
     <br/>
     <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=jaypatel31&theme=vue-dark" alt="jaypatel31" />
   </p></p>
