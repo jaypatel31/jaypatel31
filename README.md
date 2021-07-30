@@ -124,9 +124,8 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=jaypatel31&show_icons=true&locale=en&theme=vue-dark" alt="jaypatel31" height="180em"/>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaypatel31&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="jaypatel31" height="180em"/>
-    <br/>
+    <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jaypatel31&show_icons=true&locale=en&theme=vue-dark" alt="jaypatel31" height="180em"/></p>
+    <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaypatel31&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="jaypatel31" height="180em"/></p>
     <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=jaypatel31&theme=vue-dark" alt="jaypatel31" />
   </p></p>
     
