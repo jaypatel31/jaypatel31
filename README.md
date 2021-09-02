@@ -151,5 +151,5 @@
 <hr/>
 <p align="center"><b>Though you have came this far, Checkout my Repos ⬇️</b></p>
 
-![Abhinandan Trilokia](https://github.com/Trilokia/Trilokia/blob/main/bottom_header.svg)
+![Jay_Patel](https://github.com/jaypatel31/jaypatel31/blob/master/bottom_header.svg)
 <br>
