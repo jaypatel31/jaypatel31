@@ -44,8 +44,8 @@
   <p>
     <img align="right" src="learning.svg" alt="learning" width="25%">
     <p align="left">
-        <p>📗 &nbsp;I am Currently Learning Node.js, ML</p>
-        <p>🚧 &nbsp;I am Currently Working on <a href="https://github.com/jaypatel31/Nodejs-Example">Nodejs Project</a>.</p>
+        <p>📗 &nbsp;I am Currently Learning MERN, ML</p>
+        <p>🚧 &nbsp;I am Currently Working on <a href="https://github.com/jaypatel31/Instagram-clone">Instagram Clone</a>.</p>
         <p>🎓 &nbsp;I am also Enrolled in the <a href="www.udacity.com/scholarships/aws-machine-learning-scholarship-program">AWS ML Scholar Programm.</a></p>
         <p>💬 &nbsp;Feel free to Reach out to me for any Tech Related Stuffs.</p>
     </p>
