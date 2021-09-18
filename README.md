@@ -32,8 +32,8 @@
         <p>🏢 &nbsp;Full Stack Web Developer At <a href="https://www.infopercept.com">Infopercept Consulting</a> &nbsp;&nbsp;<i>(Apr 2021 - Present)</i></p>
         <p>🌈 &nbsp;Beta Student Ambassador At <a href="https://studentambassadors.microsoft.com/">Microsoft Learn Student Ambassador</a> &nbsp;&nbsp;<i>(Jan 2021 - Present)</i></p>
         <p>👨‍💻 &nbsp;Web Head At <a href="https://encodepdeu.org">Encode - The Computer Science Club</a> &nbsp;&nbsp;<i>(Oct 2020 - Present)</i></p>
-        <p>🎫 &nbsp;Technical Member At <a href="https://csi-india.org.in">Computer Society of India</a> &nbsp;&nbsp;<i>(Nov 2020 - Present)</i></p>
-        <p>🌐 &nbsp;Web Developement Member At <a href="https://dsc.community.dev/pandit-deendayal-petroleum-university">Developer Student Club</a> &nbsp;&nbsp;<i>(Nov 2020 - Present)</i></p>
+        <p>🎫 &nbsp;Technical Head At <a href="https://csi-india.org.in">Computer Society of India</a> &nbsp;&nbsp;<i>(Nov 2020 - Present)</i></p>
+        <p>🌐 &nbsp;General Secretory At <a href="https://dsc.community.dev/pandit-deendayal-petroleum-university">Developer Student Club</a> &nbsp;&nbsp;<i>(Nov 2020 - Present)</i></p>
     </p>
   </p>
 </details>
@@ -45,7 +45,7 @@
     <img align="right" src="learning.svg" alt="learning" width="25%">
     <p align="left">
         <p>📗 &nbsp;I am Currently Learning MERN, ML</p>
-        <p>🚧 &nbsp;I am Currently Working on <a href="https://github.com/jaypatel31/Instagram-clone">Instagram Clone</a>.</p>
+        <p>🚧 &nbsp;I am Currently Working on <a href="https://github.com/jaypatel31/mern-crud">MERN CRUD App</a>.</p>
         <p>🎓 &nbsp;I am also Enrolled in the <a href="www.udacity.com/scholarships/aws-machine-learning-scholarship-program">AWS ML Scholar Programm.</a></p>
         <p>💬 &nbsp;Feel free to Reach out to me for any Tech Related Stuffs.</p>
     </p>
