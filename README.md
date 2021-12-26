@@ -30,6 +30,7 @@
     <img align="right" src="work.svg" alt="work" width="25%">
     <p align="left">
         <p>🏢 &nbsp;Full Stack Web Developer At <a href="https://www.infopercept.com">Infopercept Consulting</a> &nbsp;&nbsp;<i>(Apr 2021 - Present)</i></p>
+	<p>🏢 &nbsp;Backend Developer Intern At <a href="https://caarya.in/">Caarya</a> &nbsp;&nbsp;<i>(Nov 2021 - Present)</i></p>
         <p>🌈 &nbsp;Beta Student Ambassador At <a href="https://studentambassadors.microsoft.com/">Microsoft Learn Student Ambassador</a> &nbsp;&nbsp;<i>(Jan 2021 - Present)</i></p>
         <p>👨‍💻 &nbsp;Web Head At <a href="https://encodepdeu.org">Encode - The Computer Science Club</a> &nbsp;&nbsp;<i>(Oct 2020 - Present)</i></p>
         <p>🎫 &nbsp;Technical Head At <a href="https://csi-india.org.in">Computer Society of India</a> &nbsp;&nbsp;<i>(Nov 2020 - Present)</i></p>
@@ -46,7 +47,6 @@
     <p align="left">
         <p>📗 &nbsp;I am Currently Learning MERN, ML</p>
         <p>🚧 &nbsp;I am Currently Working on <a href="https://github.com/jaypatel31/whatsapp-clone">Whatsapp Clone</a>.</p>
-        <p>🎓 &nbsp;I am also Enrolled in the <a href="www.udacity.com/scholarships/aws-machine-learning-scholarship-program">AWS ML Scholar Programm.</a></p>
         <p>💬 &nbsp;Feel free to Reach out to me for any Tech Related Stuffs.</p>
     </p>
   </p>
@@ -146,7 +146,7 @@
 
 ## 🔗 Let's Connect
 <p align="center">
-  <a href="http://pateljay.me/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+  <a href="https://pateljay.me/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:jaypatel32157@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/jaypatel31"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/--jaypatel--/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
