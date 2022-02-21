@@ -30,7 +30,7 @@
     <img align="right" src="work.svg" alt="work" width="25%">
     <p align="left">
         <p>🏢 &nbsp;Full Stack Web Developer At <a href="https://www.infopercept.com">Infopercept Consulting</a> &nbsp;&nbsp;<i>(Apr 2021 - Present)</i></p>
-	<p>🏢 &nbsp;Backend Developer Intern At <a href="https://caarya.in/">Caarya</a> &nbsp;&nbsp;<i>(Nov 2021 - Present)</i></p>
+	<p>🏢 &nbsp;Backend Developer Intern At <a href="https://caarya.in/">Caarya</a> &nbsp;&nbsp;<i>(Nov 2021 - Feb 2022)</i></p>
         <p>🌈 &nbsp;Beta Student Ambassador At <a href="https://studentambassadors.microsoft.com/">Microsoft Learn Student Ambassador</a> &nbsp;&nbsp;<i>(Jan 2021 - Present)</i></p>
         <p>👨‍💻 &nbsp;Web Head At <a href="https://encodepdeu.org">Encode - The Computer Science Club</a> &nbsp;&nbsp;<i>(Oct 2020 - Present)</i></p>
         <p>🎫 &nbsp;Technical Head At <a href="https://csi-india.org.in">Computer Society of India</a> &nbsp;&nbsp;<i>(Nov 2020 - Present)</i></p>
@@ -45,8 +45,8 @@
   <p>
     <img align="right" src="learning.svg" alt="learning" width="25%">
     <p align="left">
-        <p>📗 &nbsp;I am Currently Learning MERN, ML</p>
-        <p>🚧 &nbsp;I am Currently Working on <a href="https://github.com/jaypatel31/whatsapp-clone">Whatsapp Clone</a>.</p>
+        <p>📗 &nbsp;I am Currently Learning Next.js</p>
+        <p>🚧 &nbsp;I am Currently Working on <a href="https://pateljay.me">Portfolio Website</a>.</p>
         <p>💬 &nbsp;Feel free to Reach out to me for any Tech Related Stuffs.</p>
     </p>
   </p>
