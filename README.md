@@ -6,7 +6,7 @@
 <p align="center"><b>🌟 Unfold My Jorney 🌟</b></p>
 <hr/>
 
-## ℹ️ About Me
+## ℹ️ About Me 
 
 <details> 
   <summary><b>👱‍♂️ Intro</b></summary>
