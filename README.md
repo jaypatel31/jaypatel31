@@ -9,7 +9,7 @@
 ## ℹ️ About Me 
 
 <details> 
-  <summary><b>👱‍♂️ Intro</b></summary>
+  <summary><b>👱‍♂️ Intro </b></summary>
   <br/>
   <p>
     <img align="right" src="programmer.svg" alt="programmer" width="25%">
