@@ -40,7 +40,7 @@
 </details>
 <br/>
 <details> 
-  <summary><b>⚡ Current State</b></summary>
+  <summary><b>⚡ Current State </b></summary>
   <br/>
   <p>
     <img align="right" src="learning.svg" alt="learning" width="25%">
