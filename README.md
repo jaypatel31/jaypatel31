@@ -24,7 +24,7 @@
 </details>
 <br/>
 <details> 
-  <summary><b>💻 Experience</b></summary>
+  <summary><b>💻 Experience </b></summary>
   <br/>
   <p>
     <img align="right" src="work.svg" alt="work" width="25%">
