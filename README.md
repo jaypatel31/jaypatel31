@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quando&color=3da47a&size=24&center=true&vCenter=true&lines=Full+Stack+Web+Developer;Open+Source+Contributer;AI+%7C+ML+Enthusiastic;Researcher;Ready+For+The+Challenges"></a>
 </p>
 
-<p align="center"><b>🌟 Unfold My Jorney 🌟</b></p>
+<p align="center"><b>🌟 Unfold My Jorney 🌟 </b></p>
 <hr/>
 
 ## ℹ️ About Me 
