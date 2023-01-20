@@ -139,7 +139,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/jaypatel31"><img alt="Jay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jaypatel31&custom_title=Jay%20Patel%27s%20Contribution%20Graph&theme=github-light&bg_color=273849&line=3da47a&color=fff" /></a>
+   <a href="https://github.com/jaypatel31"><img alt="Jay's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=jaypatel31&custom_title=Jay%20Patel%27s%20Contribution%20Graph&theme=github-light&bg_color=273849&line=3da47a&color=fff" /></a>
   <br/>
 
 </details>
@@ -152,7 +152,7 @@
 	<a href="https://github.com/jaypatel31"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/--jaypatel--/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/jaypatel98196/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-  <a href="https://twitter.com/jaypate83597666"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+  <a href="https://twitter.com/jaypate83597666"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" alt="Twitter"/></a>
 </p>
 <hr/>
 <p align="center"><b>Though you have came this far, Checkout my Repos ⬇️</b></p>
